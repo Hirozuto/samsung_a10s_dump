@@ -14,4 +14,3 @@ tags_offset=0x07808000
 dtbo_offset=0xc112c000
 cmd_line='bootopt=64S3,32N2,64N2'
 board="SRPSD12A008"
-format=gzip

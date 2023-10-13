@@ -19,6 +19,7 @@ dtbo/00_kernel
 dtbo/01_dtbdump_fragment@0.dtb
 dtbodts/01_dtbdump_fragment@0.dts
 dtbo.img
+join_split_files.sh
 product/build.prop
 product/etc/init/init.rc
 product/etc/permissions/privapp-permissions-com.samsung.android.rajaampat.xml
